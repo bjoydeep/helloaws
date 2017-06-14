@@ -22,3 +22,5 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
+
+Note: This repo also contains one time setup templates in AWS for Jenkins, EC2 Container Clusters.
